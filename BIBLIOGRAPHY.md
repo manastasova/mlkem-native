@@ -270,6 +270,7 @@ source code and documentation.
   - [proofs/hol_light/x86_64/mlkem/mlkem_tobytes.S](proofs/hol_light/x86_64/mlkem/mlkem_tobytes.S)
   - [proofs/hol_light/x86_64/mlkem/mlkem_tomont.S](proofs/hol_light/x86_64/mlkem/mlkem_tomont.S)
   - [proofs/hol_light/x86_64/mlkem/mlkem_unpack.S](proofs/hol_light/x86_64/mlkem/mlkem_unpack.S)
+  - [proofs/hol_light/x86_64/mlkem/keccak_f1600_x4_avx2.S](proofs/hol_light/x86_64/mlkem/keccak_f1600_x4_avx2.S)
 
 ### `SLOTHY`
 
